@@ -5,7 +5,7 @@ export default function Index() {
   return (
    <SafeAreaView className="flex-1  bg-white">
       <Text className=" text-2xl  text-black">
-        Rishi
+        Rish
       </Text>
     </SafeAreaView>
   );
